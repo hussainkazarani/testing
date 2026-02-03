@@ -3,51 +3,58 @@
 ## 🧱 Week 1 - C# Basics
 
 ### Language Fundamentals
-- [ ] What is .NET and CLR (very high level)
-- [ ] Installing SDK + using dotnet CLI
-- [ ] Project structure
-- [ ] Program.cs
-- [ ] Main() entry point
-- [ ] Build vs Run
+- [x] What is .NET and CLR (very high level)
+- [x] Installing SDK + using dotnet CLI
+- [x] Project structure
+- [x] Program.cs
+- [x] Main() entry point
+- [x] Build vs Run
 
 ### Syntax Core
-- [ ] Variables and data types
+- [x] Variables and data types
   - int, double, float, decimal, bool, string, char
-- [ ] Type inference with `var`
-- [ ] Constants with `const`
-- [ ] Operators
+- [x] Type inference with `var`
+- [x] Constants with `const`
+- [x] Operators
   - Math, comparison, logical
 
 ### Control Flow
-- [ ] if / else
-- [ ] switch
-- [ ] for / while / do-while
-- [ ] foreach
-- [ ] break / continue
+- [x] if / else
+- [x] switch
+- [x] for / while / do-while
+- [x] foreach
+- [x] break / continue
 
 ### Methods
-- [ ] Method declaration
-- [ ] Parameters and return types
-- [ ] Optional parameters
-- [ ] Method overloading
-- [ ] ref, out, in parameters
+- [x] Method declaration
+- [x] Parameters and return types
+- [x] Optional parameters
+- [x] Method overloading
+- [x] ref, out, in parameters
 
 ### Basic Types Deep Cut
-- [ ] Value types vs Reference types
-- [ ] struct vs class
-- [ ] string immutability
+- [x] Value types vs Reference types
+- [x] struct vs class
+- [x] string immutability
 
 ### Arrays & Collections Intro
-- [ ] Arrays
-- [ ] List\<T>
-- [ ] Dictionary<TKey, TValue>
+- [x] Arrays
+- [x] List\<T>
+- [x] Dictionary<TKey, TValue>
 
 ### Console Stuff
-- [ ] Console.ReadLine()
-- [ ] Console.WriteLine()
-- [ ] Parsing input
+- [x] Console.ReadLine()
+- [x] Console.WriteLine()
+- [x] Parsing input
   - int.Parse
   - TryParse
+
+### Others
+- [x] Overflowing
+- [x] Scope
+- [x] TypeConversion/Casting
+- [x] DateTime / TimeSpan
+- [x] StringBuilder
 
 ## 🧱 Week 1–2 - Intermediate C#
 
