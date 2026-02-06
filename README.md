@@ -9,8 +9,8 @@
   ></video>
 </a>
 
-<a href="#">
-    <img src="./assets/output.webp" alt="Spinning Meme" width=100%>
-</a>
-
-<!-- style="height:300px; object-fit:cover" -->
+<p align="center">
+  <a href="#">
+    <img src="./assets/output.webp" alt="Spinning Meme" width="50%">
+  </a>
+</p>
