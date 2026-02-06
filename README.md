@@ -11,6 +11,6 @@
 
 <p align="center">
   <a href="#">
-    <img src="./assets/output.webp" alt="Spinning Meme" width="50%">
+    <img src="./assets/output1.webp" alt="Spinning Meme" width="50%">
   </a>
 </p>
